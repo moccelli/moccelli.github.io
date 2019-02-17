@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Occelli</strong> Martina
+description: Ph.D Student @ Sant'Anna University, Pisa
 
 profile:
   align: right
@@ -16,8 +16,8 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I was born in Turin on October, 5th, 1991. I received the Bachelor Degree in International Trade from the University of Turin (Italy) in 2013, advised by Prof. Eleonora Isaia. I defended a thesis about new sources of financial intermediation and micro-credits alternatives, entitled "Foresting South - South Investments: empirical study between South Africa and Afghanistan in the Telecommunication business".
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Afterwards, I joined a Double Degree Program at University of Pavia, spending the second year of my Master at the University of Hohenheim (Germany). In December 2015, I received (cum laude) my M.Sc. Degree in Economics from both universities, defending a thesis on dual sectoral development model, advices by Prof. Harald Hagemann and by Prof. Giovanni Vaggi. My work analyzed the Eritrean Manzanar Project in view of the Lewis Model, investigating the increase in productivity in the subsistence sector to prevent internal migration.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Right after my Master Degree, I started working as responsible of the innovation department at Cleopa GmbH, a start-up company located in Berlin, focused on developing and offering energy efficiency solutions. In October 2016 I was admitted as a PhD Student at Sant’Anna School of Advanced Studies, in Pisa (Italy).
