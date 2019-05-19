@@ -1,9 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: EU projects
+permalink: /eu-projects/
+description: Submitted European Projects.
 ---
+
+This is a selection of the most important and recent European Projects I have managed and worked on. You can find further details on every single page project.
 
 {% for project in site.projects %}
 
