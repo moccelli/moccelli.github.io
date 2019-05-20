@@ -1,55 +1,45 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
-img: /assets/img/2.jpg
+title: serena
+description: SERENA project
+img: /assets/img/bg/serena_1.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Project Idea
+The aim of SERENA project is **to address the issue of rebound – effect in the energy market** following the introduction of new smart technologies. The rebound effect (or take – back effect) is the reduction in expected gains from new technologies that increase the efficiency of resource use, because of behavioural or other systemic responses. These responses tend to off-set the beneficial effects of new technologies or other measures taken. If the existence of rebound effect is uncontroversial, the magnitude of the effect on real economies is still unclear and partially misunderstood. Sustainability concepts that rest on the idea of resource of energy efficiency due to technological progress tend to overestimate the potential saving effects, not considering that an increase in efficiency of 1% generates a reduction in resource use far below 1%. In this perspective, **SERENA project establishes a network of energy experts and stakeholders to develop a rebound effect toolkit**, which will generate valuable results both for policy-makers and end consumers. The purpose is the **roll out of an innovative multidisciplinary 3X2 dimensional matrix to analyse the rebound effect** under three horizontal complementary aspects (environmental, socio-economic, technological) and two spatial dimensions (local and national). Moreover, the project will be realized following some crucial principles: a) high-skill competences creation, b) gender bias mitigation thanks to an exhaustive socio-economic analysis, c) integrated reporting methodology, in order to assess step after step the added value brought by the project, and d) smart technology security in order to constantly monitor the balance between privacy, data mining and security breaks.
 
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Activities inside the SERENA project
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
+* Creation of a **short – term scientific mission** in order to tackle the most effective way to detect the rebound – effect after the introduction of new smart technologies and standardize the measurement of the phenomenon;
+* **Networking activities** among energy experts and SMEs in the energy field and regional development and energy agencies aiming at creating work and policy synergies;
+* Development of a **paper-free manual** to collect best practices in addressing rebound effect specifically elaborated for national and territorial policy-makers;
+* Criteria for the elaboration of **territorial groups of action among European energy end users** that are already implementing energy efficiency measures, in order to minimize the misinterpretation of rebound effect phenomenon;
+* Development of a **training school for young energy experts** in order to create “rebound experts”. The programme will be specifically tailored for young engineers and researchers, with the purpose of including this new topic in already existing energy programme.
 
 <div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/bg/serena_1.jpg" alt="" title="example image"/>
 </div>
 
+### Deadline
+7 December 2016
 
-<br/><br/>
+### Contact Person
+Martina Oceelli 
 
+### Parteners  
+* Cleopa HmbH (Germany)
+* Coventry University (United Kingdom)
+* Sogesca srl (Italy)
+* 17&4 (Austria)
+* E-Zavod(Slovenia)
+* REA of Pezardijk (Bulgarie)
+* Albea Transenergy SL (France)
+* LEA Spodnje Podravje (Slovenia)
+* Warsaw University (Poland)
+* Universidad Catolica San Antonio de Murcia (Spain)
+* Wireless Info Research Centre (Czech Republic)
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+### Budget for Proposal
+130,000 € per year for a period of 4 years
+                  
