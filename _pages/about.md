@@ -11,7 +11,7 @@ profile:
     <p>33 Piazza Martiri Delle Libertà</p>
     <p>Pisa, Italy 56127</p>
 
-news: true
+news: false
 social: true
 ---
 

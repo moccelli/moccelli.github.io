@@ -9,7 +9,7 @@ footer_text: >
   Martina Occelli 2019
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
@@ -17,18 +17,18 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 github_username: moccelli
 twitter_username: MartinaOccelli
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: martinaoccelli
+scholar_userid: AX1-PG4AAAAJ
 orcid_id: # your ORCID ID
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you are interested in my research, just contact me :) 
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
+blog_name: martina
 blog_description: a simple whitespace theme for academics
 
 # Pagination
@@ -42,7 +42,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: martina cocelli # put your disqus shortname
 
 # Optional features
 show_social_icons:  true

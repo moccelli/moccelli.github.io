@@ -11,6 +11,10 @@ This study aims at investigating how it is possible to improve smallholders farm
 
 We strongly believe that the key successful element for smallholders farmers resilience relies in the share of innovation and best practices; in the same manner, we do think that results coming from researching are stronger if shared. Climate change and food security are global issues: as such, we should look for solutions globally.
 
+<div class="img_row">
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/silent/silent1.jpg" alt="" title="example image"/>
+</div>
+
 ## Barilla Award
 The Silent Revolution was one of the winner of [2018 BCFNYes](https://www.barillacfn.com/en/bcfnyes2018/). Learn more about it [here](https://www.thesilentrevolution.info).
 
