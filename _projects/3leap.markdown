@@ -24,10 +24,34 @@ Instead of proposing only one solution to a multiple problem, 3LEAP target is to
 * Strategic energy financing plan that merge the precedent outputs (2-6)
 * Training activities and round tables among the stakeholder involved in every layer
 * Pilot actions in three municipal buildings in three different territories utilizing all the three layers
-* Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/bg/3leap_1.jpg" alt="" title="example image"/>
 </div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+
+### Deadline
+7 June 2017
+
+### Contact Person
+Martina Oceelli 
+
+### Parteners  
+* Cleopa HmbH (Germany)
+* ARTEC ESCO (Italy)
+* EIR Center (Ukraine)
+* Municipality of Zhitomir   (Ukraine)
+* ERFC European Regional Framwork for cooperation (Greece)
+* Municipality of Vrilisia (Greece)
+* Esus NOVUM (Slovenia)
+* Institute of Entrepreneurship Development (Czech Republic - Poland)
+* LEA Spodnje Podravje (Slovenia)
+* European Crowdfunding Network (Belgium – Brussels)
+* Polytechnic University of Palermo (Italy)
+* Frederick University (Cyprus)
+* Regional Energy Agency of Pazardjik (Bulgaria)
+* Coesione e Diritto – University of Catania (Italy)
+* Crowdfunding Network Malta (Malta)
+
+### Indicative Budget
+2 million €
+                  
